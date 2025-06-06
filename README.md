@@ -1,6 +1,6 @@
-# Algoritmo de Trading com IA da Harvard
+# Algoritmo de Trading com IA 
 
-## [![Tutorial em Vídeo](https://img.shields.io/badge/Assistir-Tutorial%20em%20Vídeo-red?style=for-the-badge&logo=youtube)](https://youtu.be/Vu62g43_1aE)
+## [![Tutorial em Vídeo](https://img.shields.io/badge/Assistir-Tutorial%20em%20Vídeo-red?style=for-the-badge&logo=youtube)]([https://youtu.be/6r7FXaDXeMA)
 
 ## O Sistema RBI: Pesquisa, Backtest, Implementação
 
