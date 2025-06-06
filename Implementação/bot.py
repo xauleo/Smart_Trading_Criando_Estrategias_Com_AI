@@ -56,7 +56,7 @@ XAUNOMAD_BANNER = f"""
 
                              por LeonardoAlves
 {Fore.RESET}
-{Fore.MAGENTA}🚀 Bot de Trading BB Squeeze ADX 🌙{Fore.RESET}
+{Fore.MAGENTA}🚀 Bot de Trading VWAPEUR 🌙{Fore.RESET}
 """
 
 # ===== CONFIGURAÇÃO =====
